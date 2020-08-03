@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae161a60-bc92-4e60-88c7-cb8395b0bf49" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/private-placement.html" beforeDir="false" afterPath="$PROJECT_DIR$/private-placement.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.3/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1enzYCDiGE82GEwI9OFA4qXBbus" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/cn" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae161a60-bc92-4e60-88c7-cb8395b0bf49" name="默认的" comment="" />
+      <created>1594972189836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594972189836</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update title icon &amp; content">
+      <created>1594981399763</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594981399763</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixed privatePolicy page content error">
+      <created>1594985183216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594985183216</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed bug">
+      <created>1594987084038</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594987084038</updated>
+    </task>
+    <task id="LOCAL-00004" summary="replace logo.png with logo.svg">
+      <created>1594994306732</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594994306732</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix bug">
+      <created>1595051615465</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595051615465</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix bug">
+      <created>1595052962973</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595052962973</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix bug">
+      <created>1595055143604</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1595055143604</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix bug">
+      <created>1595064312119</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1595064312119</updated>
+    </task>
+    <task id="LOCAL-00009" summary="private placement related to the logic of display">
+      <created>1595250535304</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1595250535304</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update icon and add Twitter link">
+      <created>1595557556621</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1595557556622</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add main.js">
+      <created>1595558010454</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1595558010454</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new resource">
+      <created>1595851130229</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1595851130229</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update title icon &amp; content" />
+    <MESSAGE value="fixed privatePolicy page content error" />
+    <MESSAGE value="fixed bug" />
+    <MESSAGE value="replace logo.png with logo.svg" />
+    <MESSAGE value="fix bug" />
+    <MESSAGE value="private placement related to the logic of display" />
+    <MESSAGE value="update icon and add Twitter link" />
+    <MESSAGE value="add main.js" />
+    <MESSAGE value="new resource" />
+    <option name="LAST_COMMIT_MESSAGE" value="new resource" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="723" y="395" key="#Notifications" timestamp="1595250707281">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="723" y="395" key="#Notifications/0.0.1680.1050@0.0.1680.1050" timestamp="1595250707281" />
+    <state x="605" y="234" key="RollbackChangesDialog" timestamp="1595908340038">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="605" y="234" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1595908340038" />
+    <state x="440" y="264" key="Vcs.Push.Dialog.v2" timestamp="1595851131777">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1595558013269" />
+    <state x="440" y="264" key="Vcs.Push.Dialog.v2/0.23.1680.956@0.23.1680.956" timestamp="1595851131777" />
+    <state x="617" y="266" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1595557993130">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="617" y="266" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1595557993130" />
+    <state x="149" y="218" width="1531" height="682" key="find.popup" timestamp="1595557447921">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="149" y="218" width="1531" height="682" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595557447921" />
+  </component>
+</project>
